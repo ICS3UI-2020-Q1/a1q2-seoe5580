@@ -28,7 +28,7 @@ public class Main {
     // tells the users the answer
     System.out.println(answer2 + " with remainder of " + answer);
 
-    //Mr Lamont, I know im not supposed to comment here but I don't know how to do it other wise, I try adding (x1 + '/' + x2 + "is" answer 2 + " with remainder of " + answer)
+    //Mr Lamont, I know im not supposed to comment here but I don't know how to do it other wise, I try adding (x1 + '/' + x2 + "is" answer 2 + " with remainder of " + answer) but it would not work
 
   }
 }
